@@ -31,4 +31,7 @@
     "mocha": "^4.1.0",
     "request": "^2.83.0"
   }
+Random rand =new Random(25);
+int i;
+i=rand.nextInt(100);
 }
